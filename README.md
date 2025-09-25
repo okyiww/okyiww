@@ -13,7 +13,3 @@ YAML                 7 mins          ░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-
-### Visitors
-![gh_visitors](https://profile-counter.glitch.me/okyiww/count.svg)
